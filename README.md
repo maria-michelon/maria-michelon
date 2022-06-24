@@ -6,4 +6,5 @@
 - 🌱 ATUALMENTE ESTOU APRENDENDO COMO ULTIZAR O GITHUB
 - 💞️ PROCURO APRENDER NOVAS LINGUAGENS.
 
+![Scrath](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
